@@ -1,6 +1,6 @@
 # Healthcare-Investment-and-Hospital-Stay-Analysis
 
-Project Title: Healthcare Investment and Hospital Stay Analysis
+
 
 The "Healthcare Investment and Hospital Stay Analysis" project is a comprehensive exploration of the healthcare landscape with a specific focus on the correlation between healthcare infrastructure investment and hospital stay duration. The project incorporates critical features such as location, time, hospital stay duration, MRI units, CT scanners, and hospital bed capacity.
 
